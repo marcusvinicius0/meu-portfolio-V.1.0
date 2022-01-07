@@ -70,6 +70,7 @@ body {
 .container:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .convertor-project {
@@ -92,6 +93,7 @@ body {
 .container2:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .login-interface-project {
@@ -114,6 +116,7 @@ body {
 .container3:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .formulary-project {
@@ -136,6 +139,7 @@ body {
 .container4:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .dualshock-project {
@@ -159,6 +163,7 @@ body {
 .container5:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .portfolio-project {
@@ -182,6 +187,7 @@ body {
 .container6:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .container7 {
@@ -199,6 +205,7 @@ body {
 .container7:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .container8 {
@@ -216,6 +223,7 @@ body {
 .container8:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+    transition: 0.3s
 }
 
 .linha {
